@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arnab Biswas</h1>
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Arnab Biswas</h1>
 <h3 align="center">A passionate Full Stack developer and Freelancer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rex-arnab&label=Profile%20views&color=0e75b6&style=flat" alt="rex-arnab" /> </p>
